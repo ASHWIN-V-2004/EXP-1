@@ -40,16 +40,11 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 
 CIRCUiT DIAGRAM:
+a.KVL
 ![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/circuit%20diagram%20(kcl).jpeg)
 CIRCUIT DIAGRAM:
-
-
-
-a.   KVL:
- 
-
-
 b.  KCL:
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/circuit%20diagram%20(kvl).jpeg?raw=true)
  
 
 Calculation:
