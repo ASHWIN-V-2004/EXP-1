@@ -39,33 +39,40 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 
-CIRCUiT DIAGRAM:
+CIRCUIT DIAGRAM:
+
 a.KVL
 ![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/circuit%20diagram%20(kcl).jpeg)
+
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kvl(proteus).jpeg)
+
 CIRCUIT DIAGRAM:
+
+
 b.  KCL:
 ![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/circuit%20diagram%20(kvl).jpeg?raw=true)
  
-
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kcl(proteus).jpeg)
 Calculation:
 
 a.   KVL:
- 
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kvl(cal1).jpeg)
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kvl(cal2).jpeg)
 
 
 b.  KCL:
-
-
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kcl(cal1).jpeg)
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kcl(cal2).jpeg)
 
 
 Tabulation:
 
 a.   KVL:
  
-
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kvl(tabulation).jpeg)
 
 b.  KCL:
-
+![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kcl(tabulation).jpeg)
 
 
 RESULT:
