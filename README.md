@@ -66,15 +66,10 @@ b.  KCL:
 
 
 Tabulation:
-
 a.   KVL:
- 
-![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kvl(tabulation).jpeg)
-
+ ![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kvl(tabulation).jpeg)
 b.  KCL:
 ![Circuit Diagram](https://github.com/ASHWIN-V-2004/EXP-1/blob/main/kcl(tabulation).jpeg)
-
-
 RESULT:
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
